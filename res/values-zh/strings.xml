@@ -20,7 +20,7 @@
     <!-- Customization Section Titles -->
     <string name="customisation_themes">主题</string>
     <string name="customisation_statusbar">状态栏</string>
-    <string name="customisation_qs" comment="customisation_qs" maxLength="13">QS</string>
+    <string name="customisation_qs">QS</string>
     <string name="customisation_lockscreen">锁屏</string>
     <string name="customisation_extras">扩展</string>
     <!-- Customization Categories/Fragment Titles -->
@@ -90,7 +90,7 @@
     <string name="network_traffic_location_title">位置</string>
     <string name="network_traffic_location_disable">已禁用</string>
     <string name="network_traffic_location_statusbar">状态栏</string>
-    <string name="network_traffic_location_quick_statusbar" comment="network_traffic_location_quick_statusbar" maxLength="20">快速状态栏</string>
+    <string name="network_traffic_location_quick_statusbar">快速状态栏</string>
     <string name="network_traffic_mode_title">显示模式</string>
     <string name="network_traffic_mode_up">仅上传</string>
     <string name="network_traffic_mode_down">仅下载</string>
@@ -144,6 +144,8 @@
     <string name="incall_vibrate_call_wait_summary">启用在通话等待时振动</string>
     <string name="incall_vibrate_disconnect_title">当挂断时振动</string>
     <string name="incall_vibrate_disconnect_summary">启用结束通话时振动</string>
+    <string name="fprint_sucess_vib_title">指纹验证振动</string>
+    <string name="fprint_sucess_vib_summary">指纹验证成功时振动</string>
     <!-- Theming -->
     <string name="themes_ui">界面</string>
     <string name="theme_customization_sysui_icon_title">系统主题</string>
